@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏽‍💻 About Me:
  With 8 years of experience in graphic design, I am currently studying Front-end development 🚀 at Noroff.<br> <br>🔭  I’m currently working on: Developing my portfolio website to showcase my design and development work.<br>👯 I’m looking to collaborate on:<br> - Front-end development projects that combine design and functionality<br>- Open-source projects that focus on user experience and interface design<br>- Web applications that require both creative design and technical implementation<br>🌱 I’m currently learning:<br>- React.js and modern JavaScript frameworks<br>- Advanced CSS techniques and animations<br>- Web accessibility standards and best practices<br>- Front-end development tools and workflows<br>⚡ Fun fact : I believe every bug is just a hidden feature waiting to be discovered! 🚀"
 
 
