@@ -1,5 +1,20 @@
 # 👨🏽‍💻 About Me:
- With 8 years of experience in graphic design, I am currently studying Front-end development 🚀 at Noroff.<br> <br>🔭 I’m currently working on: BuyNest, a full-stack e-commerce web application built with React, TypeScript, and Tailwind CSS on the frontend, and Node.js, Express.js, and MongoDB on the backend.<br>👯 I’m looking to collaborate on:<br> - Front-end development projects that combine design and functionality<br>- Open-source projects that focus on user experience and interface design<br>- Web applications that require both creative design and technical implementation<br>🌱 I’m currently learning:<br>- React.js and modern JavaScript frameworks<br>- Advanced CSS techniques and animations<br>- Web accessibility standards and best practices<br>- Front-end development tools and workflows<br>⚡ Fun fact : I believe every bug is just a hidden feature waiting to be discovered! 🚀"
+With 8 years of experience in graphic design, I’m about to complete my Front-end Development studies 🚀 at Noroff.
+
+## 👯 Collaboration Interests
+I’m looking to collaborate on:
+- Front-end development projects that combine design and functionality  
+- Open source projects focused on UI/UX and user experience  
+- Web applications that blend creative design with solid technical implementation  
+
+## 🌱 Currently Learning
+- React.js and modern JavaScript frameworks  
+- Advanced TypeScript techniques and best practices  
+- Web accessibility (Wcag) best practices  
+- Modern front-end tooling and workflows  
+
+## ⚡ Fun Fact
+I believe every bug is just a hidden feature waiting to be discovered 🚀
 
 
 ## 🌐 Socials:
