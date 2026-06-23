@@ -1,5 +1,11 @@
 # 👨🏽‍💻 About Me:
-With 8 years of experience in graphic design, I’m about to complete my Front-end Development studies 🚀 at Noroff.
+I am a front-end developer with a strong background in UX/UI and graphic design. I recently completed a Front-End Development study at Noroff Oslo, where I achieved top grades and received the Golden Egg award for Best Student Project in 2025.
+
+I have experience as a front-end intern at Publicis Norway, working with React, TypeScript, and API integrations in cross-functional teams.
+
+With over eight years of experience in graphic design, I combine design thinking with development to build user-friendly and visually strong interfaces. I enjoy turning Figma designs into functional applications using React and TypeScript.
+
+I am especially interested in creating intuitive user experiences and improving content discovery in digital products. I also have experience with Node.js and Express from personal and project work.
 
 ## 👯 Collaboration Interests
 I’m looking to collaborate on:
