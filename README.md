@@ -1,23 +1,49 @@
+<div align="center">
+
+  <!-- Custom VS Code Terminal Banner with Neon Glow Effect -->
+<a href="https://github.com/nirushan">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21252B,100:282C34&height=200&section=header&text=Nirushan%20Rajamanoharan&fontSize=40&fontColor=C778DD&fontAlignY=35&desc=Frontend%20Developer%20&%20Designer%20|%20Golden%20Egg%20Award%20Winner%202025&descSize=16&descColor=98C379&descAlignY=60&outline=true&outlineColor=61AFEF&animation=fadeIn" width="100%" alt="Header Banner" />
+  </a>
+
+  <br>
+
+  <!-- Dynamic Typing Code Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E5C07B&center=true&vCenter=true&width=780&height=45&lines=%2F%2F+Bridging+the+gap+between+design+and+code+%E2%9C%A8;const+role+%3D+%22Frontend+Developer+%26+Designer%22;;%3Ccode%3E+Turning+Figma+into+production-ready+React+%26+TS+%3C%2Fcode%3E;%3Ccode%3E+Crafting+WCAG-compliant,+accessible+experiences+%3C%2Fcode%3E" alt="Typing SVG" />
+
+  <br>
+
+  <!-- Interactive Tech Stack Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/WCAG-%23005A9C.svg?style=flat-square&logo=w3c&logoColor=white" alt="WCAG" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </p>
+
+</div>
 # 👨🏽‍💻 About Me:
-I am a front-end developer with a strong background in UX/UI and graphic design. I recently completed a Front-End Development study at Noroff Oslo, where I achieved top grades and received the Golden Egg award for Best Student Project in 2025.
+I am a front-end developer and designer with a strong background in UX/UI and graphic design. I hold a professional degree in front-end development from Noroff Oslo, where I achieved top grades (A) across all subjects and received the Golden Egg award for Best Student Project in 2025.
 
-I have experience as a front-end intern at Publicis Norway, working with React, TypeScript, and API integrations in cross-functional teams.
+I have hands-on experience as a front-end intern at Publicis Norway, building React and TypeScript web applications, handling API integrations, and collaborating closely in cross-functional agile teams.
 
-With over eight years of experience in graphic design, I combine design thinking with development to build user-friendly and visually strong interfaces. I enjoy turning Figma designs into functional applications using React and TypeScript.
+With 8 years of experience in graphic design, I combine design thinking with development to build user-friendly, accessible (WCAG), and visually strong interfaces. I enjoy turning Figma designs into functional, high-performing applications using React, TypeScript, and Tailwind CSS.
 
-I am especially interested in creating intuitive user experiences and improving content discovery in digital products. I also have experience with Node.js and Express from personal and project work.
+I am especially interested in creating intuitive user experiences and improving content discovery in digital products. I also have experience with CI/CD in Azure DevOps, version control with Git and GitHub, and am currently studying online backend development to expand my skills toward becoming a full-stack developer.
 
 ## 👯 Collaboration Interests
 I’m looking to collaborate on:
-- Front-end development projects that combine design and functionality  
-- Open source projects focused on UI/UX and user experience  
-- Web applications that blend creative design with solid technical implementation  
+- Front-end development and UI design projects that seamlessly combine creative design and solid technical implementation  
+- Open source projects focused on accessible UI/UX, user experience, and modern web applications  
+- Cross-functional team collaborations that bridge the gap between designers and developers
 
 ## 🌱 Currently Learning
-- React.js and modern JavaScript frameworks  
-- Advanced TypeScript techniques and best practices  
-- Web accessibility (Wcag) best practices  
-- Modern front-end tooling and workflows  
+- Online backend development to expand my skills toward becoming a full-stack developer  
+- Advanced TypeScript techniques and modern React patterns  
+- Web accessibility (WCAG) best practices and universal design  
+- CI/CD workflows and modern front-end tooling
 
 ## ⚡ Fun Fact
 I believe every bug is just a hidden feature waiting to be discovered 🚀
