@@ -2,7 +2,7 @@
 
   <!-- Custom VS Code Terminal Banner with Neon Glow Effect -->
 <a href="https://github.com/nirushan">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21252B,100:282C34&height=200&section=header&text=Nirushan%20Rajamanoharan&fontSize=40&fontColor=C778DD&fontAlignY=35&desc=Frontend%20Developer%20&%20Designer%20|%20Golden%20Egg%20Award%20Winner%202025&descSize=16&descColor=98C379&descAlignY=60&outline=true&outlineColor=61AFEF&animation=fadeIn" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21252B,100:282C34&height=200&section=header&text=Nirushan%20Rajamanoharan&fontSize=40&fontColor=98C379&fontAlignY=35&desc=Frontend%20Developer%20&%20Designer%20|%20Golden%20Egg%20Award%20Winner%202025&descSize=16&descColor=#3E8914&descAlignY=60&outline=true&outlineColor=98C379&animation=fadeIn" width="100%" alt="Header Banner" />
   </a>
 
   <br>
