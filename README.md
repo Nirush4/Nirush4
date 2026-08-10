@@ -24,6 +24,7 @@
   </p>
 
 </div>
+
 # 👨🏽‍💻 About Me:
 I am a front-end developer and designer with a strong background in UX/UI and graphic design. I hold a professional degree in front-end development from Noroff Oslo, where I achieved top grades (A) across all subjects and received the Golden Egg award for Best Student Project in 2025.
 
