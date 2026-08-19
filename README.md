@@ -7,8 +7,8 @@
 
   <br>
 
-  <!-- Dynamic Typing Code Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E5C07B&center=true&vCenter=true&width=780&height=45&lines=%2F%2F+Bridging+the+gap+between+design+and+code+%E2%9C%A8;const+role+%3D+%22Frontend+Developer+%26+Designer%22;;%3Ccode%3E+Turning+Figma+into+production-ready+React+%26+TS+%3C%2Fcode%3E;%3Ccode%3E+Crafting+WCAG-compliant,+accessible+experiences+%3C%2Fcode%3E" alt="Typing SVG" />
+<!-- Dynamic Typing Code Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E5C07B&center=true&vCenter=true&width=820&height=45&lines=Bygger+digitale+opplevelser+med+kode+%E2%9C%A8;const+role+%3D+%22Frontend-utvikler+%26+Designer%22;;%3Ccode%3E+Gj%C3%B8r+om+Figma+til+produksjonsklar+React+%26+TS+%3C%2Fcode%3E;%3Ccode%3E+Skaper+WCAG-kompatible,+tilgjengelige+brukeropplevelser+%3C%2Fcode%3E" alt="Typing SVG" />
 
   <br>
 
