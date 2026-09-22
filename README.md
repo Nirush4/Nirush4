@@ -127,11 +127,11 @@ Jeg ønsker å samarbeide om:
 ## 🌐 Sosiale medier & Kontakt
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirushan-rajamanoharan-056765209">
+  <a href="https://www.linkedin.com/in/nirushan-rajamanoharan-056765209" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://nirushan.no/">
+  <a href="https://nirushan.no/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FFD700.svg?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
   </a>
 </p>
