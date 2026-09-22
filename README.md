@@ -130,4 +130,8 @@ Jeg ønsker å samarbeide om:
   <a href="https://www.linkedin.com/in/nirushan-rajamanoharan-056765209">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://nirushan.no/">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700.svg?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
